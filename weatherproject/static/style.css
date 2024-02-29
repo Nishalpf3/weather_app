@@ -31,16 +31,15 @@ form{
   grid-gap:3%;
 }
 .container{
-  width: 50%;;
+  width: 80%;;
   /* background-color: #77ACF1; */
   background: var(--transp-white-2);
   backdrop-filter: blur(10px);
-  margin: 5rem auto;
+  margin: 7rem auto;
   padding: 2rem;
   border: 2px solid var(--transp-white-2);
   border-radius: 10px;
   color:rgb(5,41,51);
-  height: 600px;
 }
 input, .btn ::placeholder{
   background-color: transparent;
@@ -162,6 +161,6 @@ body  {
   background-size:cover;
   background-repeat: no-repeat;
   margin: 0;
-  width: 1920px;
+  width: 100%;
 
 }
